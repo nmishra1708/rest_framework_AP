@@ -1,5 +1,5 @@
-# rest_framework_AP
-Project
+# rest_framework_API
+
 Flow of Project Implementation:
 1.	Create project employee using django.
 2.	Create django App hrm .
